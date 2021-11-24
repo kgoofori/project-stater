@@ -1,0 +1,9 @@
+Hotel settings
+    ** currency
+    ** when check date differ
+    
+delete customer_id in payments table
+delete customer_id, company_id in reservations table
+delete bill_to from reservations table
+
+//in house suggestions
